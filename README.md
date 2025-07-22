@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Pedro
 
-🌍 Based in Barcelona | 🎯 AI Learner | 🧗 Climber | 🧠 Crypto Explorer (no Guru or expert)
+🌍 Based in Barcelona | 🎯 AI Learner | 🧗 Climber
 
 - 🔭 Currently diving into **Advanced Prompt Engineering**
 - 💻 Building projects using **Python, AI tools, and automation**
