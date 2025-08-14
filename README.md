@@ -81,6 +81,8 @@ python3 -m http.server 8080
 # or
 npx serve .
 
+---
+
 🗺️ Roadmap / Ideas
 
 Pulse Drive: proper lap logic & checkpoints, ghost replays, broader car roster, mobile perf pass
@@ -92,6 +94,6 @@ Pixel Outrider: touch controls, level seeds & meta-progression, SFX polish
 📫 Contact
 
 Email: esteves7771@gmail.com
-LinkeDin: in/pedro-esteves-bb20aba8
+LinkeDin: https://www.linkedin.com/in/pedro-esteves-bb20aba8/
 
 GitHub Pages: (https://github.com/esteves7771/MataTudo) / https://github.com/esteves7771/Pixel-Outrider
