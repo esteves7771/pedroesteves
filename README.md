@@ -37,6 +37,7 @@ I build small, fast game prototypes and automation/AI experiments. Below are my 
 
 **Tech:** JavaScript, HTML/CSS, LocalStorage (leaderboards & progress)  
 *(All UI elements and mission/leaderboard text visible in the live build.)* :contentReference[oaicite:0]{index=0}
+
 <img width="2277" height="1082" alt="image" src="https://github.com/user-attachments/assets/1407392f-c257-4603-ae3c-feb8cdb1791b" />
 
 ---
@@ -52,6 +53,8 @@ I build small, fast game prototypes and automation/AI experiments. Below are my 
 
 **Tech:** JavaScript, HTML/CSS  
 *(All controls and mechanics listed on the page UI.)* :contentReference[oaicite:1]{index=1}
+
+<img width="2544" height="1253" alt="image" src="https://github.com/user-attachments/assets/361aeed4-b8a7-4616-869e-8a44d4f4c814" />
 
 ---
 
