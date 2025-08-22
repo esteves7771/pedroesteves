@@ -1,31 +1,13 @@
-# Pedro Esteves — Game Prototypes & AI Experiments
+# Pedro Esteves - Game Prototypes/Apps & AI Experiments
 
 👋 Hi, I'm Pedro  
 🌍 Barcelona • 🎯 AI Learner • 🧗 Climber
 
-I build small, fast game prototypes and automation/AI experiments. Below are my current playable projects with live demos and a quick tech/feature snapshot.
+I build small, fast game prototypes/Apps and automation/AI experiments. Below are my current playable projects with live demos and a quick tech/feature snapshot.
 
 ---
 
-## 🎮 Projects
-
-### 1) Pulse Drive — low-poly 3D racer (WebGL) - Very early development, not fully functioning yet.
-**Live:** (https://esteves7771.github.io/Pulse-Drive)  
-**What it is:** Lightweight arcade racer with procedural tracks, bots, and a responsive chase cam.  
-**Notable features**
-- Three.js renderer with fog/lighting + sky dome
-- Procedural track baking (straights/arcs/switchbacks), curvature/banking arrays
-- Simple vehicle physics (longitudinal/lateral velocity, steer filtering)
-- Bot AI with look-ahead path following & curvature-aware speed target
-- LocalStorage for settings & best laps, in-game HUD/minimap
-- Mobile touch HUD + keyboard/gamepad input
-- Two-track music system with crossfade
-
-**Tech:** JavaScript (ES modules), Three.js, Canvas textures, LocalStorage
-
----
-
-### 2) MataTudo — top-down arena shooter (HTML5)
+### 1) MataTudo — top-down arena shooter (HTML5)
 **Live:** https://esteves7771.github.io/MataTudo/  
 **What it is:** A wave/level-based shooter with bosses and daily/weekly goals.  
 **Notable features**
@@ -42,7 +24,7 @@ I build small, fast game prototypes and automation/AI experiments. Below are my 
 
 ---
 
-### 3) Pixel Outrider — 2D action/platformer (HTML5)
+### 2) Pixel Outrider — 2D action/platformer (HTML5)
 **Live:** https://esteves7771.github.io/Pixel-Outrider/  
 **What it is:** Side-scroller with jumping, dashing, charged beam, and periodic bosses.  
 **Notable features**
@@ -55,6 +37,54 @@ I build small, fast game prototypes and automation/AI experiments. Below are my 
 *(All controls and mechanics listed on the page UI.)* :contentReference[oaicite:1]{index=1}
 
 <img width="2544" height="1253" alt="image" src="https://github.com/user-attachments/assets/361aeed4-b8a7-4616-869e-8a44d4f4c814" />
+
+---
+
+### 2) Top 100 Crypto Dashboard Website/App (HTML5) 
+**Live:** https://esteves7771.github.io/Top100Crypto/
+
+This is a clean, fast, and minimalist single-page application (SPA) designed to track the top 100 cryptocurrencies by market capitalization. It was built as a modern web application, prioritizing a seamless user experience on both desktop and mobile devices.
+
+- Key Features
+Live Data: Displays real-time data for the top 100 cryptocurrencies, including rank, name, price, market cap, and trading volume.
+
+Dynamic Sorting: Users can sort the main table by various metrics like price, market cap, or percentage change to quickly find the information they need.
+
+Currency Selector: The application supports multiple currencies (EUR, USD, GBP, JPY, AUD), allowing users to view all data in their preferred currency.
+
+Interactive Graphs: Clicking on any cryptocurrency in the table opens a pop-up modal with a detailed price chart. The chart is interactive and allows users to view data over different timeframes (1D, 7D, 1M, 1Y, All).
+
+Responsive Design: The layout automatically adjusts to the screen size. On mobile devices, the data is displayed in a user-friendly card format instead of a compressed table.
+
+Dark Mode Toggle: A simple toggle in the header allows users to switch between light and dark themes for comfortable viewing in any environment.
+
+News Feed: A collapsible section at the bottom of the page displays the latest crypto-related headlines in an elegant card layout. It includes a "Go to News" button in the header for easy navigation.
+
+Client-Side Caching: The application caches data locally to minimize API calls and improve performance and load times.
+
+Tech Stack
+This project is built with a simple and lightweight tech stack to ensure speed and efficiency:
+
+Frontend: Pure HTML5, CSS3, and JavaScript.
+
+- External Libraries:
+
+Chart.js and Luxon.js: Used for rendering the interactive, responsive price graphs.
+
+Google Fonts (Inter): Provides a modern and clean typeface for the website.
+
+- APIs:
+
+CoinGecko API: Fetches real-time cryptocurrency market data and historical price information.
+
+RSS2JSON API: A public proxy service used to convert a crypto news RSS feed into a usable JSON format.
+
+Future Improvements
+Watchlist: A feature to allow users to save their favorite coins to a personalized list using local storage.
+
+Portfolio Tracker: An interface where users can manually input their crypto holdings to calculate and track their total portfolio value.
+
+More News Sources: Expand the news feed to pull from multiple, customizable sources.
 
 ---
 
@@ -72,28 +102,9 @@ I build small, fast game prototypes and automation/AI experiments. Below are my 
 
 ---
 
-## 🚀 How to run locally
-
-```bash
-# clone your repo then:
-# serve with any static server
-python3 -m http.server 8080
-# or
-npx serve .
-
----
-
-🗺️ Roadmap / Ideas
-
-Pulse Drive: proper lap logic & checkpoints, ghost replays, broader car roster, mobile perf pass
-
-MataTudo: enemy variety, weapon/mod drops, cloud-backed leaderboards
-
-Pixel Outrider: touch controls, level seeds & meta-progression, SFX polish
-
 📫 Contact
 
 Email: esteves7771@gmail.com
 LinkeDin: https://www.linkedin.com/in/pedro-esteves-bb20aba8/
 
-GitHub Pages: (https://github.com/esteves7771/MataTudo) / https://github.com/esteves7771/Pixel-Outrider
+GitHub Pages: https://github.com/esteves7771/MataTudo / https://github.com/esteves7771/Pixel-Outrider / https://esteves7771.github.io/Top100Crypto/
