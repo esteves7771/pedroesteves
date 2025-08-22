@@ -40,7 +40,7 @@ I build small, fast game prototypes/Apps and automation/AI experiments. Below ar
 
 ---
 
-### 2) Top 100 Crypto Dashboard Website/App (HTML5) 
+### 3) Top 100 Crypto Dashboard Website/App (HTML5) 
 **Live:** https://esteves7771.github.io/Top100Crypto/
 
 This is a clean, fast, and minimalist single-page application (SPA) designed to track the top 100 cryptocurrencies by market capitalization. It was built as a modern web application, prioritizing a seamless user experience on both desktop and mobile devices.
