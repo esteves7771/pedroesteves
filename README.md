@@ -7,7 +7,7 @@ I build small, fast game prototypes/Apps and automation/AI experiments. Below ar
 
 ---
 
-### 1) MataTudo — top-down arena shooter (HTML5)
+### 1) MataTudo — top-down arena shooter (HTML5) - Tools ChatGpt
 **Live:** https://esteves7771.github.io/MataTudo/  
 **What it is:** A wave/level-based shooter with bosses and daily/weekly goals.  
 **Notable features**
@@ -24,7 +24,7 @@ I build small, fast game prototypes/Apps and automation/AI experiments. Below ar
 
 ---
 
-### 2) Pixel Outrider — 2D action/platformer (HTML5)
+### 2) Pixel Outrider — 2D action/platformer (HTML5) - Tools ChatGpt
 **Live:** https://esteves7771.github.io/Pixel-Outrider/  
 **What it is:** Side-scroller with jumping, dashing, charged beam, and periodic bosses.  
 **Notable features**
@@ -40,7 +40,7 @@ I build small, fast game prototypes/Apps and automation/AI experiments. Below ar
 
 ---
 
-### 3) Top 100 Crypto Dashboard Website/App (HTML5) 
+### 3) Top 100 Crypto Dashboard Website/App (HTML5) - Combined use of ChatGpt + Google Gemini
 **Live:** https://esteves7771.github.io/Top100Crypto/
 
 This is a clean, fast, and minimalist single-page application (SPA) designed to track the top 100 cryptocurrencies by market capitalization. It was built as a modern web application, prioritizing a seamless user experience on both desktop and mobile devices.
