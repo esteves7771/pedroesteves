@@ -2,7 +2,6 @@
 
 👋 Hi, I'm Pedro  
 🌍 Barcelona • 🎯 AI Learner • 🧗 Climber
-
 Building lightweight, real-time web apps focused on usability.
 
 **Languages/Frameworks:**  
@@ -20,7 +19,8 @@ Building lightweight, real-time web apps focused on usability.
 **Focus Areas:**  
 ⚡ Prototyping 🎮 Game Mechanics 🔗 API Integration 🎨 UI/UX  
 
-I build small, fast game prototypes/Apps and automation/AI experiments. Below are my current playable projects with live demos and a quick tech/feature snapshot.
+I build small, fast game prototypes/Apps and automation/AI experiments. Below are my current playable 
+projects with live demos and a quick tech/feature snapshot.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
