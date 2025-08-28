@@ -84,7 +84,7 @@ This is a clean, fast, and minimalist single-page application (SPA) designed to 
 
 **Tech:** HTML5, CSS3, JavaScript (static SPA with external exercise links)
 
-<img width="2200" alt="https://github.com/esteves7771/GetFit/blob/main/Screenshot%202025-08-28%20at%2015.30.34.png" />  
+<img width="2200" alt="GetFit App Screenshot" src="https://raw.githubusercontent.com/esteves7771/GetFit/main/Screenshot%202025-08-28%20at%2015.30.34.png" />
 
 ---
 
