@@ -2,6 +2,7 @@
 
 👋 Hi, I'm Pedro  
 🌍 Barcelona • 🎯 AI Learner • 🧗 Climber
+
 Building lightweight, real-time web apps focused on usability.
 
 **Languages/Frameworks:**  
