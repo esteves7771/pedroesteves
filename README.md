@@ -10,7 +10,7 @@ Building lightweight, real-time web apps focused on usability.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
 
-**Tools:**  
+## 🛠 Tech & Tools 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=github&logoColor=white) 
 ![LocalStorage](https://img.shields.io/badge/LocalStorage-lightgrey) 
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white) 
@@ -25,7 +25,7 @@ projects with live demos and a quick tech/feature snapshot.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 1) MataTudo — top-down arena shooter (HTML5) - Tools ChatGpt
+### MataTudo — top-down arena shooter (HTML5) | Built with ChatGPT
 **Live:** https://esteves7771.github.io/MataTudo/  
 **What it is:** A wave/level-based shooter with bosses and daily/weekly goals.  
 **Notable features**
@@ -106,17 +106,13 @@ This is a clean, fast, and minimalist single-page application (SPA) designed to 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🧰 Skills I’m actively using (honest list)
+## 🧰 Skills I’m actively using
 
-- **Game loops & state management:** menu → select → race/play → pause/results
-- **Input systems:** keyboard, mouse, touch (and gamepad on Pulse Drive)
-- **3D & WebGL:** Three.js scene setup, fog/lighting, sky domes, instanced props
-- **Procedural generation:** track baking, curvature/banking, prop scattering (Pulse Drive)
-- **Lightweight physics & AI:** vehicle kinematics, steer filtering, look-ahead path following
-- **UI/HUD design:** in-game overlays, minimap, mission panels, settings toggles
-- **Persistence:** LocalStorage (settings, bests, leaderboards)
-- **Audio:** music crossfades, mute/volume toggles
-- **Performance basics:** low-poly meshes, canvas textures, simple materials
+- **Game Dev:** game loops, state management, input systems (keyboard, mouse, touch, gamepad), lightweight physics & AI  
+- **Graphics / 3D:** Three.js, WebGL basics, procedural track/prop generation, fog/lighting setups  
+- **UI/UX:** in-game overlays, HUDs, mission panels, responsive layouts, dark mode toggles  
+- **Persistence & Data:** LocalStorage, leaderboards, caching, API integrations  
+- **Audio & Performance:** music crossfades, volume controls, optimization (low-poly meshes, canvas textures)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -131,3 +127,5 @@ GitHub Pages:
 - https://esteves7771.github.io/Top100Crypto/  
 - https://esteves7771.github.io/GetFit/
 
+
+⭐ If you like my projects, feel free to star them — it helps me know what to build next!
