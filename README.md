@@ -2,10 +2,26 @@
 
 👋 Hi, I'm Pedro  
 🌍 Barcelona • 🎯 AI Learner • 🧗 Climber
+Building lightweight, real-time web apps focused on usability.
+
+**Languages/Frameworks:**  
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+
+**Tools:**  
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=github&logoColor=white) 
+![LocalStorage](https://img.shields.io/badge/LocalStorage-lightgrey) 
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white) 
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white) 
+![AI copilots](https://img.shields.io/badge/AI%20Copilots-ChatGPT%20%7C%20Gemini-10a37f)  
+
+**Focus Areas:**  
+⚡ Prototyping 🎮 Game Mechanics 🔗 API Integration 🎨 UI/UX  
 
 I build small, fast game prototypes/Apps and automation/AI experiments. Below are my current playable projects with live demos and a quick tech/feature snapshot.
 
----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 1) MataTudo — top-down arena shooter (HTML5) - Tools ChatGpt
 **Live:** https://esteves7771.github.io/MataTudo/  
@@ -22,7 +38,7 @@ I build small, fast game prototypes/Apps and automation/AI experiments. Below ar
 
 <img width="2277" height="1082" alt="image" src="https://github.com/user-attachments/assets/1407392f-c257-4603-ae3c-feb8cdb1791b" />
 
----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 2) Pixel Outrider — 2D action/platformer (HTML5) - Tools ChatGpt
 **Live:** https://esteves7771.github.io/Pixel-Outrider/  
@@ -38,7 +54,7 @@ I build small, fast game prototypes/Apps and automation/AI experiments. Below ar
 
 <img width="2544" height="1253" alt="image" src="https://github.com/user-attachments/assets/361aeed4-b8a7-4616-869e-8a44d4f4c814" />
 
----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 3) Top 100 Crypto Dashboard Website/App (HTML5) - Combined use of ChatGpt + Google Gemini
 **Live:** https://esteves7771.github.io/Top100Crypto/
@@ -68,7 +84,7 @@ This is a clean, fast, and minimalist single-page application (SPA) designed to 
 <img width="2200" alt="getfit-app" src="https://github.com/esteves7771/Top100Crypto/blob/main/Screenshot%202025-08-28%20at%2015.29.53.png" /> 
 
 
----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 4) GetFit — Workout Routine Web App (HTML5) - Tools ChatGpt / Gemini 2.5
 **Live:** https://esteves7771.github.io/GetFit/  
@@ -86,7 +102,7 @@ This is a clean, fast, and minimalist single-page application (SPA) designed to 
 
 <img width="2200" alt="GetFit App Screenshot" src="https://raw.githubusercontent.com/esteves7771/GetFit/main/Screenshot%202025-08-28%20at%2015.30.34.png" />
 
----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧰 Skills I’m actively using (honest list)
 
@@ -100,7 +116,7 @@ This is a clean, fast, and minimalist single-page application (SPA) designed to 
 - **Audio:** music crossfades, mute/volume toggles
 - **Performance basics:** low-poly meshes, canvas textures, simple materials
 
----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📫 Contact  
 
