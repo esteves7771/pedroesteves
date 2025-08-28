@@ -65,6 +65,9 @@ This is a clean, fast, and minimalist single-page application (SPA) designed to 
 - Portfolio Tracker (manual holdings input)  
 - More News Sources  
 
+<img width="2200" alt="getfit-app" src="https://github.com/esteves7771/Top100Crypto/blob/main/Screenshot%202025-08-28%20at%2015.29.53.png" /> 
+
+
 ---
 
 ### 4) GetFit — Workout Routine Web App (HTML5) - Tools ChatGpt / Gemini 2.5
@@ -81,7 +84,7 @@ This is a clean, fast, and minimalist single-page application (SPA) designed to 
 
 **Tech:** HTML5, CSS3, JavaScript (static SPA with external exercise links)
 
-<img width="2200" alt="getfit-app" src="https://github.com/esteves7771/Top100Crypto/blob/main/Screenshot%202025-08-28%20at%2015.29.53.png" />  
+<img width="2200" alt="https://github.com/esteves7771/GetFit/blob/main/Screenshot%202025-08-28%20at%2015.30.34.png" />  
 
 ---
 
