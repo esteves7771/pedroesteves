@@ -25,7 +25,7 @@ projects with live demos and a quick tech/feature snapshot.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Aether Drift — endless retro-futuristic space shooter (HTML5) | Built with ChatGPT
+### Aether Drift — endless retro-futuristic space shooter (HTML5) | Built with ChatGPT / Gemini 2.5
 
 **Live:** https://esteves7771.github.io/Aether-Drift/
 **What it is:** A procedurally generated, top-down arcade shooter with persistent upgrades, dynamic power-ups, and cinematic boss battles.
@@ -144,6 +144,7 @@ GitHub Pages:
 - https://github.com/esteves7771/Pixel-Outrider  
 - https://esteves7771.github.io/Top100Crypto/  
 - https://esteves7771.github.io/GetFit/
+- https://esteves7771.github.io/Aether-Drift/
 
 
 ⭐ If you like my projects, feel free to star them — it helps me know what to build next!
