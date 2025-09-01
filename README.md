@@ -27,24 +27,19 @@ projects with live demos and a quick tech/feature snapshot.
 
 ### Aether Drift — endless retro-futuristic space shooter (HTML5) | Built with ChatGPT
 
-Live: https://esteves7771.github.io/Aether-Drift/
-What it is: A procedurally generated, top-down arcade shooter with persistent upgrades, dynamic power-ups, and cinematic boss battles.
-Notable features
+**Live:** https://esteves7771.github.io/Aether-Drift/
+**What it is:** A procedurally generated, top-down arcade shooter with persistent upgrades, dynamic power-ups, and cinematic boss battles.
+**Notable features**
+  - Endless waves with progressively harder enemies
+  - Mini-bosses and final bosses at score milestones
+  - Power-ups: Shield, Drones, EMP, Time Warp, Double/Triple Shot
+  - Permanent upgrades between runs (fire rate, speed, max health)
+  - Procedural planets, cosmic events, and cinematic transitions
+  - Synthwave soundtrack that intensifies during boss fights
 
-Endless waves with progressively harder enemies
+**Tech:** JavaScript (ES6+), HTML5 Canvas, CSS3, Tone.js
 
-Mini-bosses and final bosses at score milestones
-
-Power-ups: Shield, Drones, EMP, Time Warp, Double/Triple Shot
-
-Permanent upgrades between runs (fire rate, speed, max health)
-
-Procedural planets, cosmic events, and cinematic transitions
-
-Synthwave soundtrack that intensifies during boss fights
-
-Tech: JavaScript (ES6+), HTML5 Canvas, CSS3, Tone.js
-
+<img width="2544" height="1253" alt="image" src="https://github.com/esteves7771/Aether-Drift/blob/main/Screenshot%202025-09-01%20at%2004.23.04.png" />
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
