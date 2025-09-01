@@ -1,150 +1,125 @@
-# Pedro Esteves - Game Prototypes/Apps & AI Experiments
+# Pedro Esteves — Web Apps, Games & Tools
 
 👋 Hi, I'm Pedro  
-🌍 Barcelona • 🎯 AI Learner • 🧗 Climber
+🌍 Barcelona • 🎯 Front-End Developer & UI Enthusiast • 🧗 Climber  
 
-Building lightweight, real-time web apps focused on usability.
+I design and build **lightweight, real-time web apps and games** focused on usability, aesthetics, and performance.  
+All my projects are **self-contained**, run entirely client-side, and are optimized for both desktop and mobile.
 
-**Languages/Frameworks:**  
+**Languages & Frameworks:**  
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
 
-## 🛠 Tech & Tools 
+**Tech & Tools:**  
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=github&logoColor=white) 
 ![LocalStorage](https://img.shields.io/badge/LocalStorage-lightgrey) 
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white) 
-![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white) 
-![AI copilots](https://img.shields.io/badge/AI%20Copilots-ChatGPT%20%7C%20Gemini-10a37f)  
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)  
 
 **Focus Areas:**  
-⚡ Prototyping 🎮 Game Mechanics 🔗 API Integration 🎨 UI/UX  
+⚡ Rapid Prototyping 🎮 Game Mechanics 🔗 API Integration 🎨 UI/UX  
 
-I build small, fast game prototypes/Apps and automation/AI experiments. Below are my current playable 
-projects with live demos and a quick tech/feature snapshot.
+---
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📌 Featured Projects
 
-### Aether Drift — endless retro-futuristic space shooter (HTML5) | Built with ChatGPT / Gemini 2.5
+---
 
-**Live:** https://esteves7771.github.io/Aether-Drift/
-**What it is:** A procedurally generated, top-down arcade shooter with persistent upgrades, dynamic power-ups, and cinematic boss battles.
-**Notable features**
-  - Endless waves with progressively harder enemies
-  - Mini-bosses and final bosses at score milestones
-  - Power-ups: Shield, Drones, EMP, Time Warp, Double/Triple Shot
-  - Permanent upgrades between runs (fire rate, speed, max health)
-  - Procedural planets, cosmic events, and cinematic transitions
-  - Synthwave soundtrack that intensifies during boss fights
+### **CyberPass** — Cyberpunk Password Generator  
+**Live:** https://esteves7771.github.io/CyberPass/  
+**What it is:** A cyberpunk-themed, offline-first password & passphrase generator with entropy meter, animated matrix rain background, and full mobile/desktop support.  
 
-**Tech:** JavaScript (ES6+), HTML5 Canvas, CSS3, Tone.js
+**Notable features**  
+- Secure RNG (`crypto.getRandomValues`) — works 100% locally  
+- Adjustable length & charset toggles (upper, lower, numbers, symbols, glitch glyphs)  
+- Passphrase mode with cyberpunk-style words  
+- Entropy meter + terminal-style logs  
+- Optimized mobile portrait layout with larger touch targets  
+- Copy & wipe functions for instant use  
 
-<img width="2544" height="1253" alt="image" src="https://github.com/esteves7771/Aether-Drift/blob/main/Screenshot%202025-09-01%20at%2004.23.04.png" />
+**Tech:** HTML5, CSS3, JavaScript (ES6+)  
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![CyberPass Screenshot](https://github.com/esteves7771/CyberPass/blob/main/Screenshot%202025-09-01%20at%2023.34.18.png)
 
-### MataTudo — top-down arena shooter (HTML5) | Built with ChatGPT
+---
+
+### **Aether Drift** — Endless Retro-Futuristic Space Shooter  
+**Live:** https://esteves7771.github.io/Aether-Drift/  
+**What it is:** A procedurally generated top-down arcade shooter with upgrades, cinematic effects, and boss phases.  
+
+**Notable features**  
+- Endless enemy waves, mini-bosses, and bosses  
+- Permanent upgrades between runs  
+- Procedural planets and visual events  
+- Synthwave soundtrack that intensifies during battles  
+
+**Tech:** JavaScript (ES6+), HTML5 Canvas, CSS3, Tone.js  
+
+![Aether Drift Screenshot](https://github.com/esteves7771/Aether-Drift/blob/main/Screenshot%202025-09-01%20at%2004.23.04.png)
+
+---
+
+### **MataTudo** — Top-Down Arena Shooter  
 **Live:** https://esteves7771.github.io/MataTudo/  
-**What it is:** A wave/level-based shooter with bosses and daily/weekly goals.  
-**Notable features**
-- Start/Pause/Restart flow with on-screen UI
-- Level-ups every 30 kills; periodic boss spawns (shown in UI)
-- Music toggle + volume, “Tips” pane for controls
-- Local leaderboards + “Hall of Fame” stored in browser
-- Daily/weekly missions panel with progress and rewards
+- Level-based shooter with bosses and daily/weekly goals  
+- Music & tips panel, local leaderboards, mission tracking  
+- Responsive and fully playable in browser  
 
-**Tech:** JavaScript, HTML/CSS, LocalStorage (leaderboards & progress)  
-*(All UI elements and mission/leaderboard text visible in the live build.)*
+**Tech:** HTML5, CSS3, JavaScript, LocalStorage  
 
-<img width="2277" height="1082" alt="image" src="https://github.com/user-attachments/assets/1407392f-c257-4603-ae3c-feb8cdb1791b" />
+![MataTudo Screenshot](https://github.com/user-attachments/assets/1407392f-c257-4603-ae3c-feb8cdb1791b)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-### 2) Pixel Outrider — 2D action/platformer (HTML5) - Tools ChatGpt
+### **Pixel Outrider** — 2D Action Platformer  
 **Live:** https://esteves7771.github.io/Pixel-Outrider/  
-**What it is:** Side-scroller with jumping, dashing, charged beam, and periodic bosses.  
-**Notable features**
-- HUD (HP, Score, Coins, Distance)
-- Keyboard + mouse controls: move/jump/shoot, RMB/Q charge beam, Shift dash
-- Pause & Music toggle; optional “Night” mode; dev “H” debug hint in UI
-- 3 lives with respawn, HP packs, boss about every ~600 tiles
+- Side-scroller with shooting, dashing, charged beam  
+- HUD with HP, Score, Coins, Distance  
+- Boss fights every ~600 tiles  
 
-**Tech:** JavaScript, HTML/CSS  
-*(All controls and mechanics listed on the page UI.)*
+**Tech:** HTML5, CSS3, JavaScript  
 
-<img width="2544" height="1253" alt="image" src="https://github.com/user-attachments/assets/361aeed4-b8a7-4616-869e-8a44d4f4c814" />
+![Pixel Outrider Screenshot](https://github.com/user-attachments/assets/361aeed4-b8a7-4616-869e-8a44d4f4c814)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-### 3) Top 100 Crypto Dashboard Website/App (HTML5) - Combined use of ChatGpt + Google Gemini
-**Live:** https://esteves7771.github.io/Top100Crypto/
+### **Top 100 Crypto Dashboard** — Live Crypto Tracker  
+**Live:** https://esteves7771.github.io/Top100Crypto/  
+- Tracks top 100 cryptocurrencies with live data  
+- Sorting, dark mode, currency selection, news feed  
+- Responsive table/cards layout  
 
-This is a clean, fast, and minimalist single-page application (SPA) designed to track the top 100 cryptocurrencies by market capitalization. It was built as a modern web application, prioritizing a seamless user experience on both desktop and mobile devices.
+**Tech:** HTML5, CSS3, JavaScript, Chart.js, CoinGecko API  
 
-**Key Features**
-- Live Data: Real-time data for the top 100 cryptocurrencies (rank, name, price, market cap, volume).
-- Dynamic Sorting: Sort table by price, market cap, % change, etc.
-- Currency Selector: Supports EUR, USD, GBP, JPY, AUD.
-- Interactive Graphs: Detailed charts with selectable timeframes (1D, 7D, 1M, 1Y, All).
-- Responsive Design: Table on desktop; card layout on mobile.
-- Dark Mode Toggle: Switch between light/dark themes.
-- News Feed: Collapsible crypto headlines with “Go to News” button.
-- Client-Side Caching: Faster loads and reduced API calls.
+![Top100Crypto Screenshot](https://github.com/esteves7771/Top100Crypto/blob/main/Screenshot%202025-08-28%20at%2015.29.53.png)
 
-**Tech Stack**
-- Frontend: Pure HTML5, CSS3, JavaScript  
-- External: Chart.js, Luxon.js, Google Fonts (Inter)  
-- APIs: CoinGecko API (market data), RSS2JSON (news feed)
+---
 
-**Future Improvements**
-- Watchlist (favorites saved in LocalStorage)  
-- Portfolio Tracker (manual holdings input)  
-- More News Sources  
-
-<img width="2200" alt="getfit-app" src="https://github.com/esteves7771/Top100Crypto/blob/main/Screenshot%202025-08-28%20at%2015.29.53.png" /> 
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 4) GetFit — Workout Routine Web App (HTML5) - Tools ChatGpt / Gemini 2.5
+### **GetFit** — Workout Routine App  
 **Live:** https://esteves7771.github.io/GetFit/  
+- Predefined workout plans (Strength, Fat Loss, Mobility)  
+- GIF demonstrations for each exercise  
+- Mobile-friendly layout for quick access at the gym  
 
-**What it is:** A simple, practical fitness web app that generates workout routines with exercise order, images, and instructions. Designed for quick access and clarity, especially for beginners or anyone needing structured training.  
+**Tech:** HTML5, CSS3, JavaScript  
 
-**Notable features**
-- Predefined workout categories: Strength, Fat Loss, Mobility  
-- Each routine shows ~10 exercises with correct order and GIFs  
-- Exercise library integrated from **exrx.net** (GIF demonstrations)  
-- Responsive layout for desktop and mobile (easy to check while training)  
-- Clean UI with minimal distractions — built as a lightweight template  
+![GetFit Screenshot](https://raw.githubusercontent.com/esteves7771/GetFit/main/Screenshot%202025-08-28%20at%2015.30.34.png)
 
-**Tech:** HTML5, CSS3, JavaScript (static SPA with external exercise links)
+---
 
-<img width="2200" alt="GetFit App Screenshot" src="https://raw.githubusercontent.com/esteves7771/GetFit/main/Screenshot%202025-08-28%20at%2015.30.34.png" />
+## 🧰 Skills
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- **Game Development:** game loops, state management, collision detection, input systems  
+- **UI/UX:** responsive layouts, HUDs, mission panels, dark mode toggles  
+- **Data Persistence:** LocalStorage, caching, API integrations  
+- **Graphics & Audio:** Canvas animations, basic WebGL, background music handling  
+- **Performance:** code optimization for low-end devices  
 
-## 🧰 Skills I’m actively using
+---
 
-- **Game Dev:** game loops, state management, input systems (keyboard, mouse, touch, gamepad), lightweight physics & AI  
-- **Graphics / 3D:** Three.js, WebGL basics, procedural track/prop generation, fog/lighting setups  
-- **UI/UX:** in-game overlays, HUDs, mission panels, responsive layouts, dark mode toggles  
-- **Persistence & Data:** LocalStorage, leaderboards, caching, API integrations  
-- **Audio & Performance:** music crossfades, volume controls, optimization (low-poly meshes, canvas textures)
+📫 **Contact**  
+- **Email:** esteves7771@gmail.com  
+- **LinkedIn:** [Pedro Esteves](https://www.linkedin.com/in/pedro-esteves-bb20aba8/)  
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-📫 Contact  
-
-Email: **esteves7771@gmail.com**  
-LinkedIn: [Pedro Esteves](https://www.linkedin.com/in/pedro-esteves-bb20aba8/)  
-
-GitHub Pages:  
-- https://github.com/esteves7771/MataTudo  
-- https://github.com/esteves7771/Pixel-Outrider  
-- https://esteves7771.github.io/Top100Crypto/  
-- https://esteves7771.github.io/GetFit/
-- https://esteves7771.github.io/Aether-Drift/
-
-
-⭐ If you like my projects, feel free to star them — it helps me know what to build next!
+⭐ *If you like my projects, star them — it helps me decide what to build next!*
