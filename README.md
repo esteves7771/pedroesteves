@@ -28,9 +28,9 @@ All my projects are **self-contained**, run entirely client-side, and are optimi
 
 ### **CyberPass** — Cyberpunk Password Generator  
 **Live:** https://esteves7771.github.io/CyberPass/  
-**What it is:** A cyberpunk-themed, offline-first password & passphrase generator with entropy meter, animated matrix rain background, and full mobile/desktop support.  
+A cyberpunk-themed, offline-first password & passphrase generator with entropy meter, animated matrix rain, and full mobile/desktop support.  
 
-**Notable features**  
+**Features**  
 - Secure RNG (`crypto.getRandomValues`) — works 100% locally  
 - Adjustable length & charset toggles (upper, lower, numbers, symbols, glitch glyphs)  
 - Passphrase mode with cyberpunk-style words  
@@ -46,9 +46,9 @@ All my projects are **self-contained**, run entirely client-side, and are optimi
 
 ### **Aether Drift** — Endless Retro-Futuristic Space Shooter  
 **Live:** https://esteves7771.github.io/Aether-Drift/  
-**What it is:** A procedurally generated top-down arcade shooter with upgrades, cinematic effects, and boss phases.  
+Procedurally generated top-down arcade shooter with upgrades, cinematic effects, and boss phases.  
 
-**Notable features**  
+**Features**  
 - Endless enemy waves, mini-bosses, and bosses  
 - Permanent upgrades between runs  
 - Procedural planets and visual events  
@@ -105,6 +105,16 @@ All my projects are **self-contained**, run entirely client-side, and are optimi
 **Tech:** HTML5, CSS3, JavaScript  
 
 ![GetFit Screenshot](https://raw.githubusercontent.com/esteves7771/GetFit/main/Screenshot%202025-08-28%20at%2015.30.34.png)
+
+---
+
+## ⚙ How I Build
+I use **AI-assisted coding** as part of my workflow — it’s my way of brainstorming, prototyping, and moving fast.  
+I decide on the concept, design the interface, choose the features, and then work with AI to generate an initial code base.  
+From there, I test, debug, and refine the project until it’s **polished, responsive, and fully functional**.  
+
+This approach lets me create **production-ready apps and games in days instead of weeks**, while keeping full creative and technical control.  
+For me, AI is just another tool — like a code editor, graphics software, or an API library — and the end result is always the product of my decisions and craftsmanship.  
 
 ---
 
