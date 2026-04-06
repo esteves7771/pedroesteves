@@ -44,7 +44,7 @@ Procedurally generated top-down arcade shooter with upgrades, cinematic effects,
 ![Aether Drift Screenshot](https://github.com/esteves7771/Aether-Drift/blob/main/Screenshot%202025-09-01%20at%2004.23.04.png?raw=true)
 
 ---
-CIPHER — Neural Interface
+### **CIPHER** — Neural Interface
 Live URL: cipher2077.netlify.app
 
 Title: CIPHER — AI Chat Interface
@@ -84,6 +84,13 @@ Type: Personal project / Portfolio
 ---
 
 # 🎙️ Private Voice Room
+
+https://github.com/esteves7771/private-voice-room/blob/a3ee04120bcae1094fc57522566c473c9a5a9136/Screenshot%202026-04-06%20185546.png
+https://github.com/esteves7771/private-voice-room/blob/a3ee04120bcae1094fc57522566c473c9a5a9136/Screenshot%202026-04-06%20185626.png
+https://github.com/esteves7771/private-voice-room/blob/a3ee04120bcae1094fc57522566c473c9a5a9136/Screenshot%202026-04-06%20185707.png
+https://github.com/esteves7771/private-voice-room/blob/a3ee04120bcae1094fc57522566c473c9a5a9136/Screenshot%202026-04-06%20185757.png
+https://github.com/esteves7771/private-voice-room/blob/a3ee04120bcae1094fc57522566c473c9a5a9136/Screenshot%202026-04-06%20185817.png
+
 
 A real-time browser-based voice chat app with rooms, private calls, and screen sharing.
 
