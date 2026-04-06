@@ -44,6 +44,127 @@ Procedurally generated top-down arcade shooter with upgrades, cinematic effects,
 ![Aether Drift Screenshot](https://github.com/esteves7771/Aether-Drift/blob/main/Screenshot%202025-09-01%20at%2004.23.04.png?raw=true)
 
 ---
+CIPHER — Neural Interface
+Live URL: cipher2077.netlify.app
+
+Title: CIPHER — AI Chat Interface
+Short description (tagline):
+Cyberpunk-themed AI chat interface built in one day. Powered by Llama 3.3 70B via Groq API.
+
+How it works:
+CIPHER is a full AI chat application wrapped in a Cyberpunk 2077-inspired terminal interface. Users type queries into a fixed input bar and receive responses from a large language model with a custom CIPHER persona — precise, intelligent, slightly mysterious. The app maintains full conversation history within the session, streams responses with a typewriter effect letter by letter, and features glitch animations, scan line overlays, and neon micro-interactions throughout.
+
+Technologies used:
+
+React 18 + Vite
+Plain CSS (no frameworks or Tailwind)
+Groq API — Llama 3.3 70B Versatile
+Netlify (deployment)
+
+
+Key features:
+
+Real-time AI conversation with full session history
+Custom cyberpunk CIPHER persona with accurate real-world knowledge
+Typewriter effect on AI responses
+Glitch animation on header logo (fires every 8–10 seconds)
+Scan line background overlay
+Neon glow micro-interactions on all active elements
+Copy button per message
+Mobile-first responsive design
+Auto-resize textarea input
+
+
+Role: Solo — concept, design, development, deployment
+Built in: 1 day
+
+Type: Personal project / Portfolio
+
+
+---
+
+# 🎙️ Private Voice Room
+
+A real-time browser-based voice chat app with rooms, private calls, and screen sharing.
+
+Built with a simple stack (HTML, CSS, vanilla JavaScript, Node.js, Socket.IO, and WebRTC), focused on low friction and instant use — no installs, no accounts, just access and talk.
+
+## 🚀 Features
+
+- 🔐 Basic login system (username/password)
+- 🧑‍🤝‍🧑 Multiple rooms (Lobby, Neon, Shadow, Vault, Duo, Trio)
+- 🎧 Real-time voice chat (WebRTC peer-to-peer)
+- 📞 Private 1v1 calls (separate connection from room audio)
+- 🖥️ Screen sharing inside rooms
+- 🪟 Floating screen viewer (draggable, resizable, minimize, snap)
+- 💬 Temporary room chat (live, in-memory)
+- 🔊 Speaking detection (live audio activity indicator)
+- 🎚️ Per-user volume control + mute
+- 📱 Mobile-friendly UI
+
+## 🧠 How It Works
+
+### Signaling (Backend)
+The server is built with **Node.js + Express + Socket.IO** and is responsible for:
+- handling login requests
+- managing room state (users, presence)
+- relaying WebRTC signaling:
+  - offers
+  - answers
+  - ICE candidates
+
+The server does **not handle media** — it only coordinates connections.
+
+### Real-Time Communication (Frontend)
+
+All audio and video is handled using **WebRTC (peer-to-peer mesh)**.
+
+Each user creates a direct connection to every other user in the room:
+
+- 🎤 Microphone → shared to all peers
+- 🖥️ Screen → shared to all peers in the room
+- 📞 Private call → separate WebRTC connection
+
+### Room Flow
+
+1. User logs in
+2. Selects a room
+3. Clicks **"Join Voice"**
+4. WebRTC connections are established with other users
+5. Audio starts streaming
+
+### Screen Sharing
+
+- Uses `getDisplayMedia()`
+- Shared as video-only (audio disabled for stability)
+- Stream is added to all peer connections
+- Late joiners attach to the active stream when joining
+
+### Private Calls
+
+- Separate WebRTC connection (isolated from room audio)
+- Room audio is muted during the call
+- Supports:
+  - call request
+  - accept / decline
+  - end call
+
+## 🛠️ Tech Stack
+
+Frontend:
+- HTML
+- CSS
+- Vanilla JavaScript
+
+Backend:
+- Node.js
+- Express
+- Socket.IO
+
+Realtime:
+- WebRTC
+
+---
 
 ### **MataTudo** — Top-Down Arena Shooter
 
