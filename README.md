@@ -45,7 +45,7 @@ Procedurally generated top-down arcade shooter with upgrades, cinematic effects,
 
 ---
 ### **CIPHER** — Neural Interface
-Live URL: cipher2077.netlify.app
+Live URL: [cipher2077.netlify.app](https://cipher2077.netlify.app/)
 
 ![App Screenshot](https://github.com/esteves7771/pedroesteves/blob/a2af12460259d2a767cad153c9782c611b0229df/Screenshot%202026-04-06%20191007.png)
 ![App Screenshot](https://github.com/esteves7771/pedroesteves/blob/a2af12460259d2a767cad153c9782c611b0229df/Screenshot%202026-04-06%20191056.png)
