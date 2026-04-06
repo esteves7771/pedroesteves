@@ -46,9 +46,8 @@ Procedurally generated top-down arcade shooter with upgrades, cinematic effects,
 ---
 ### **CIPHER** — Neural Interface
 Live URL: [cipher2077.netlify.app](https://cipher2077.netlify.app/)
-
-![App Screenshot](https://github.com/esteves7771/pedroesteves/blob/a2af12460259d2a767cad153c9782c611b0229df/Screenshot%202026-04-06%20191007.png)
-![App Screenshot](https://github.com/esteves7771/pedroesteves/blob/a2af12460259d2a767cad153c9782c611b0229df/Screenshot%202026-04-06%20191056.png)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white) ![Llama](https://img.shields.io/badge/Llama_3.3_70B-0467DF?style=for-the-badge&logo=meta&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![App Screenshot](https://github.com/esteves7771/pedroesteves/blob/a2af12460259d2a767cad153c9782c611b0229df/Screenshot%202026-04-06%20191007.png) ![App Screenshot](https://github.com/esteves7771/pedroesteves/blob/a2af12460259d2a767cad153c9782c611b0229df/Screenshot%202026-04-06%20191056.png)
 
 CIPHER — AI Chat Interface
 Short description (tagline):
@@ -87,6 +86,11 @@ Type: Personal project / Portfolio
 ---
 
 # 🎙️ Private Voice Room
+
+## 🚀 Private Voice Room
+
+**Live:**https://private-voice-room.onrender.com/
+![Node.js](https://img.shields.io/badge/Node.js-18+-green?logo=node.js) ![Express](https://img.shields.io/badge/Express-Backend-black?logo=express) ![Socket.IO](https://img.shields.io/badge/Socket.IO-Realtime-white?logo=socket.io) ![WebRTC](https://img.shields.io/badge/WebRTC-P2P-blue?logo=webrtc) ![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-yellow?logo=javascript) ![HTML5](https://img.shields.io/badge/HTML5-Frontend-orange?logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?logo=css3)
 
 ![App Screenshot](https://github.com/esteves7771/private-voice-room/raw/a3ee04120bcae1094fc57522566c473c9a5a9136/Screenshot%202026-04-06%20185546.png)
 ![App Screenshot](https://github.com/esteves7771/private-voice-room/raw/a3ee04120bcae1094fc57522566c473c9a5a9136/Screenshot%202026-04-06%20185626.png)
