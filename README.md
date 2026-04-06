@@ -85,12 +85,11 @@ Type: Personal project / Portfolio
 
 # 🎙️ Private Voice Room
 
-https://github.com/esteves7771/private-voice-room/raw/a3ee04120bcae1094fc57522566c473c9a5a9136/Screenshot%202026-04-06%20185546.png
-https://github.com/esteves7771/private-voice-room/raw/a3ee04120bcae1094fc57522566c473c9a5a9136/Screenshot%202026-04-06%20185626.png
-https://github.com/esteves7771/private-voice-room/raw/a3ee04120bcae1094fc57522566c473c9a5a9136/Screenshot%202026-04-06%20185707.png
-https://github.com/esteves7771/private-voice-room/raw/a3ee04120bcae1094fc57522566c473c9a5a9136/Screenshot%202026-04-06%20185757.png
-https://github.com/esteves7771/private-voice-room/raw/a3ee04120bcae1094fc57522566c473c9a5a9136/Screenshot%202026-04-06%20185817.png
-
+![App Screenshot](https://github.com/esteves7771/private-voice-room/raw/a3ee04120bcae1094fc57522566c473c9a5a9136/Screenshot%202026-04-06%20185546.png)
+![App Screenshot](https://github.com/esteves7771/private-voice-room/raw/a3ee04120bcae1094fc57522566c473c9a5a9136/Screenshot%202026-04-06%20185626.png)
+![App Screenshot](https://github.com/esteves7771/private-voice-room/raw/a3ee04120bcae1094fc57522566c473c9a5a9136/Screenshot%202026-04-06%20185707.png)
+![App Screenshot](https://github.com/esteves7771/private-voice-room/raw/a3ee04120bcae1094fc57522566c473c9a5a9136/Screenshot%202026-04-06%20185757.png)
+![App Screenshot](https://github.com/esteves7771/private-voice-room/raw/a3ee04120bcae1094fc57522566c473c9a5a9136/Screenshot%202026-04-06%20185817.png)
 
 A real-time browser-based voice chat app with rooms, private calls, and screen sharing.
 
