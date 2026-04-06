@@ -1,19 +1,27 @@
-# Pedro Esteves — Web Apps, Games & Tools
+# Pedro Esteves — Web Apps, AI Tools & Games
 
-👋 Hi, I'm Pedro
-🌍 Barcelona • 🎯 Front-End Developer & UI Enthusiast • 🧗 Climber
+👋 Hi, I'm Pedro 🌍 Barcelona • ⚡ Frontend Developer & AI-Native Builder • 🧗 Climber
 
-I design and build **lightweight, real-time web apps and games** focused on usability, aesthetics, and performance.
-All my projects are **self-contained**, run entirely client-side, and are optimized for both desktop and mobile.
+I build and ship **real, live web applications and AI-powered tools** from scratch.
+Fast. Mobile-first. Deployed. Every project is publicly accessible and cross-device tested.
+
+I use AI tools as a **core part of my workflow** — not as a shortcut, but as a force 
+multiplier. My most recent project, CIPHER, went from brief to live URL in one day.
 
 **Languages & Frameworks:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
+![JavaScript](badge) ![React](badge) ![HTML5](badge) ![CSS3](badge)
 
-**Tech & Tools:**
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=github\&logoColor=white) ![LocalStorage](https://img.shields.io/badge/LocalStorage-lightgrey) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs\&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs\&logoColor=white)
+**Backend & APIs:**
+![Node.js](badge) ![Express](badge) ![Socket.IO](badge) ![WebRTC](badge)
+
+**AI & Tools:**
+![Groq API](badge) ![LLaMA 3.3 70B](badge) ![Claude](badge) ![ChatGPT](badge)
+
+**Deployment:**
+![Netlify](badge) ![Render](badge) ![GitHub Pages](badge)
 
 **Focus Areas:**
-⚡ Rapid Prototyping 🎮 Game Mechanics 🔗 API Integration 🎨 UI/UX
+⚡ AI Integration • 🎮 Game Mechanics • 🔌 API Integration • 🎨 UI/UX • ⚡ Rapid Prototyping
 
 ---
 
