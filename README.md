@@ -39,6 +39,15 @@ https://thebriefnews.org/
 ## 📌 Featured Projects
 
 ---
+### **TheBrief** — free live news aggregator
+
+**Live:** https://thebriefnews.org/
+Free live news aggregator pulling breaking stories from BBC, Reuters, Al Jazeera, TechCrunch and more. Top stories, world, tech, business, science, sports, all in one place. Also available as an Android app (soon).
+
+
+
+
+---
 
 ### **CyberPass** — Cyberpunk Password Generator
 
