@@ -5,7 +5,7 @@
 I build and ship real, live web applications and AI-powered tools from scratch. Fast. Mobile-first. Deployed. Every project is publicly accessible and cross-device tested.
 I use AI tools as a core part of my workflow - not as a shortcut, but as a force multiplier. My most recent project, CIPHER, went from brief to live URL in 3h.
 
-🗞️ Owner of The Brief — a free live news aggregator pulling breaking stories from BBC, Reuters, Al Jazeera, TechCrunch and more. Top stories, world, tech, business, science, sports — all in one place. Also available as an Android app.
+🗞️ Owner of The Brief, a free live news aggregator pulling breaking stories from BBC, Reuters, Al Jazeera, TechCrunch and more. Top stories, world, tech, business, science, sports, all in one place. Also available as an Android app.
 https://thebriefnews.org/
 
 **Languages & Frameworks:**
