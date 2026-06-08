@@ -44,6 +44,7 @@ https://thebriefnews.org/
 **Live:** https://thebriefnews.org/
 Free live news aggregator pulling breaking stories from BBC, Reuters, Al Jazeera, TechCrunch and more. Top stories, world, tech, business, science, sports, all in one place. Also available as an Android app (soon).
 
+![TheBrief Screenshot](https://github.com/esteves7771/the-brief/blob/d64345bce2a398f54f0f5b142e85e3de488122f4/Screenshot%202026-06-08%20142558.png)
 
 
 
